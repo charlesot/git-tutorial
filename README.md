@@ -1,10 +1,18 @@
-# BMI calculator
+i# BMI calculator
 This project we are going to write a python program to calculate the BMI 
 
 Measurements :
 
-Weight( Kgs) 
-Height (meters)
+1. Weight( Kgs) 
+
+2. Height (meters)
+
 BMI = Weight/ (Height * Height ) 
 
-we will use the BMI to determine whether the user is overweight , Normal or underweight . 
+we will use the BMI to determine whether the user is overweight , Normal or underweight .
+
+
+This is the last edit 
+
+
+Thanks you !
